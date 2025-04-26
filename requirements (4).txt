@@ -1,0 +1,9 @@
+streamlit
+google-cloud-texttospeech
+python-pptx
+Pillow>=3.3.2
+XlsxWriter>=0.5.7
+lxml>=3.1.0
+typing-extensions>=4.9.0
+moviepy
+imageio[ffmpeg]  # moviepy에서 ffmpeg를 사용하기 위해 추가
