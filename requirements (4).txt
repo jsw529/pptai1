@@ -1,5 +1,0 @@
-streamlit
-google-cloud-texttospeech
-python-pptx
-moviepy
-imageio[ffmpeg]  # moviepy에서 ffmpeg를 사용하기 위해 추가
